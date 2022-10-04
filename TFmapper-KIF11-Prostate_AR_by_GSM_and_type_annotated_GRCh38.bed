@@ -1,0 +1,99 @@
+browser position chr10:92590302-92633053
+track name=GSM1501188 description=C4-2B_shCTRL_Ethl visibility=1 itemRgb="On"
+chr10	92591605	92591782	Intergenic	1000	.	92591605	92591782	0,255,0
+track name=GSM1308236 description=PC3_R1881 visibility=1 itemRgb="On"
+chr10	92632662	92632808	intron_(NM_004523,_intron_13_of_21)	1000	.	92632662	92632808	0,0,255
+track name=GSM1164141 description=DU145_AR visibility=1 itemRgb="On"
+chr10	92591665	92591830	Intergenic	1000	.	92591665	92591830	255,140,0
+chr10	92592988	92593175	promoter-TSS_(NM_004523)	1000	.	92592988	92593175	255,140,0
+track name=GSM1164151 description=DU145_AR-Q640X visibility=1 itemRgb="On"
+chr10	92591606	92591886	Intergenic	1000	.	92591606	92591886	255,140,0
+chr10	92592862	92593086	promoter-TSS_(NM_004523)	1000	.	92592862	92593086	255,140,0
+chr10	92628076	92628284	intron_(NM_004523,_intron_10_of_21)	1000	.	92628076	92628284	255,140,0
+chr10	92632591	92632807	intron_(NM_004523,_intron_13_of_21)	1000	.	92632591	92632807	255,140,0
+track name=GSM1816382 description=DUCap_R1881 visibility=1 itemRgb="On"
+chr10	92628050	92628276	intron_(NM_004523,_intron_10_of_21)	1000	.	92628050	92628276	0,255,255
+track name=GSM1527033 description=CWR22PC_Vehicle visibility=1 itemRgb="On"
+chr10	92591404	92591868	Intergenic	1000	.	92591404	92591868	255,0,255
+chr10	92592921	92593245	promoter-TSS_(NM_004523)	1000	.	92592921	92593245	255,0,255
+track name=GSM1527034 description=CWR22PC_DHT visibility=1 itemRgb="On"
+chr10	92591574	92591878	Intergenic	1000	.	92591574	92591878	255,0,255
+chr10	92592980	92593502	5'_UTR_(NM_004523,_exon_1_of_22)	1000	.	92592980	92593502	255,0,255
+track name=GSM1527036 description=CWR22PC_DHT_MDV3100 visibility=1 itemRgb="On"
+chr10	92591589	92591851	Intergenic	1000	.	92591589	92591851	255,0,255
+chr10	92592894	92593468	5'_UTR_(NM_004523,_exon_1_of_22)	1000	.	92592894	92593468	255,0,255
+track name=GSM801011 description=VCaP_DHT visibility=1 itemRgb="On"
+chr10	92593055	92593236	promoter-TSS_(NM_004523)	1000	.	92593055	92593236	128,128,0
+track name=GSM801012 description=VCS2_DHT visibility=1 itemRgb="On"
+chr10	92593231	92593396	5'_UTR_(NM_004523,_exon_1_of_22)	1000	.	92593231	92593396	128,128,0
+chr10	92628094	92628271	intron_(NM_004523,_intron_10_of_21)	1000	.	92628094	92628271	128,128,0
+track name=GSM1328945 description=VCaP_vehicle visibility=1 itemRgb="On"
+chr10	92591586	92591760	Intergenic	1000	.	92591586	92591760	0,128,128
+track name=GSM1328952 description=VCaP_DHT visibility=1 itemRgb="On"
+chr10	92591670	92591881	Intergenic	1000	.	92591670	92591881	0,128,128
+track name=GSM1328953 description=VCaP_JQ1_DHT visibility=1 itemRgb="On"
+chr10	92628027	92628304	intron_(NM_004523,_intron_10_of_21)	1000	.	92628027	92628304	0,128,128
+track name=GSM1328958 description=VCaP_Bicalutamide_DHT visibility=1 itemRgb="On"
+chr10	92592965	92593337	promoter-TSS_(NM_004523)	1000	.	92592965	92593337	0,128,128
+track name=GSM817348 description=VCaP_vehicle visibility=1 itemRgb="On"
+chr10	92592844	92593010	promoter-TSS_(NM_004523)	1000	.	92592844	92593010	255,0,0
+track name=GSM817349 description=VCaP_R1881_AR_antagonist(compound30_0.1uM) visibility=1 itemRgb="On"
+chr10	92592819	92592970	promoter-TSS_(NM_004523)	1000	.	92592819	92592970	255,0,0
+track name=GSM817350 description=VCaP_R1881_ARantagonist(compound30_1uM) visibility=1 itemRgb="On"
+chr10	92592780	92592926	promoter-TSS_(NM_004523)	1000	.	92592780	92592926	255,0,0
+track name=GSM817354 description=VCaP_R1881_ARantagonist(compound26_10uM) visibility=1 itemRgb="On"
+chr10	92592849	92593114	promoter-TSS_(NM_004523)	1000	.	92592849	92593114	255,0,0
+track name=GSM1354830 description=VCaP_R1881 visibility=1 itemRgb="On"
+chr10	92628069	92628275	intron_(NM_004523,_intron_10_of_21)	1000	.	92628069	92628275	0,255,0
+track name=GSM1354831 description=VCaP_R1881 visibility=1 itemRgb="On"
+chr10	92628109	92628284	intron_(NM_004523,_intron_10_of_21)	1000	.	92628109	92628284	0,255,0
+track name=GSM1463459 description=VCaP_siPIAS1_R1881 visibility=1 itemRgb="On"
+chr10	92628065	92628265	intron_(NM_004523,_intron_10_of_21)	1000	.	92628065	92628265	0,255,0
+chr10	92632648	92632809	intron_(NM_004523,_intron_13_of_21)	1000	.	92632648	92632809	0,255,0
+track name=GSM1463460 description=VCaP_siPIAS1_R1881 visibility=1 itemRgb="On"
+chr10	92628041	92628283	intron_(NM_004523,_intron_10_of_21)	1000	.	92628041	92628283	0,255,0
+chr10	92632609	92632755	exon_(NM_004523,_exon_13_of_22)	1000	.	92632609	92632755	0,255,0
+track name=GSM696842 description=VCaP_R1881 visibility=1 itemRgb="On"
+chr10	92628116	92628273	intron_(NM_004523,_intron_10_of_21)	1000	.	92628116	92628273	0,0,255
+track name=GSM717393 description=VCaP_DHT visibility=1 itemRgb="On"
+chr10	92632683	92632853	intron_(NM_004523,_intron_13_of_21)	1000	.	92632683	92632853	255,140,0
+track name=GSM980658 description=VCaP_DHT visibility=1 itemRgb="On"
+chr10	92591637	92591783	Intergenic	1000	.	92591637	92591783	0,255,255
+chr10	92592865	92593039	promoter-TSS_(NM_004523)	1000	.	92592865	92593039	0,255,255
+chr10	92628061	92628271	intron_(NM_004523,_intron_10_of_21)	1000	.	92628061	92628271	0,255,255
+chr10	92632624	92632823	intron_(NM_004523,_intron_13_of_21)	1000	.	92632624	92632823	0,255,255
+track name=GSM980663 description=LNCaP-1F5_DHT_Dex visibility=1 itemRgb="On"
+chr10	92628038	92628213	intron_(NM_004523,_intron_10_of_21)	1000	.	92628038	92628213	0,255,255
+track name=GSM1274871 description=LNCaP_siControl visibility=1 itemRgb="On"
+chr10	92591591	92591758	Intergenic	1000	.	92591591	92591758	255,0,255
+track name=GSM1327872 description=LNCap_shFoxA1_R1881 visibility=1 itemRgb="On"
+chr10	92591646	92591797	Intergenic	1000	.	92591646	92591797	128,128,0
+track name=GSM1071280 description=LNCap_DHT visibility=1 itemRgb="On"
+chr10	92592694	92592842	promoter-TSS_(NM_004523)	1000	.	92592694	92592842	0,128,128
+chr10	92593378	92593614	intron_(NM_004523,_intron_1_of_21)	1000	.	92593378	92593614	0,128,128
+chr10	92619321	92619707	intron_(NM_004523,_intron_9_of_21)	1000	.	92619321	92619707	0,128,128
+track name=GSM1071292 description=malignant_prostate_tumor_patient_a visibility=1 itemRgb="On"
+chr10	92602016	92602183	intron_(NM_004523,_intron_1_of_21)	1000	.	92602016	92602183	0,128,128
+track name=GSM1071293 description=malignant_prostate_tumor_patient_a visibility=1 itemRgb="On"
+chr10	92592799	92592933	promoter-TSS_(NM_004523)	1000	.	92592799	92592933	0,128,128
+chr10	92602032	92602183	intron_(NM_004523,_intron_1_of_21)	1000	.	92602032	92602183	0,128,128
+track name=GSM1071295 description=malignant_prostate_tumor_patient_b visibility=1 itemRgb="On"
+chr10	92590502	92590647	Intergenic	1000	.	92590502	92590647	0,128,128
+track name=GSM1358401 description=prostate_normal_tissue_7 visibility=1 itemRgb="On"
+chr10	92591719	92591865	Intergenic	1000	.	92591719	92591865	255,0,0
+track name=GSM1358402 description=prostate_normal_tissue_8 visibility=1 itemRgb="On"
+chr10	92591665	92591864	Intergenic	1000	.	92591665	92591864	255,0,0
+track name=GSM1358404 description=prostate_tumor_tissue_10 visibility=1 itemRgb="On"
+chr10	92591577	92591838	Intergenic	1000	.	92591577	92591838	255,0,0
+chr10	92592969	92593183	promoter-TSS_(NM_004523)	1000	.	92592969	92593183	255,0,0
+track name=GSM1358411 description=prostate_tumor_tissue_17 visibility=1 itemRgb="On"
+chr10	92591610	92591779	Intergenic	1000	.	92591610	92591779	255,0,0
+track name=GSM1716769 description=LHSAR_LacZ_R1881 visibility=1 itemRgb="On"
+chr10	92591495	92591667	Intergenic	1000	.	92591495	92591667	255,0,0
+chr10	92592993	92593352	5'_UTR_(NM_004523,_exon_1_of_22)	1000	.	92592993	92593352	255,0,0
+chr10	92604119	92604337	intron_(NM_004523,_intron_1_of_21)	1000	.	92604119	92604337	255,0,0
+chr10	92619468	92619653	intron_(NM_004523,_intron_9_of_21)	1000	.	92619468	92619653	255,0,0
+chr10	92632558	92632829	exon_(NM_004523,_exon_13_of_22)	1000	.	92632558	92632829	255,0,0
+track name=GSM1716770 description=LHSAR_LacZ_R1881 visibility=1 itemRgb="On"
+chr10	92604119	92604265	intron_(NM_004523,_intron_1_of_21)	1000	.	92604119	92604265	255,0,0
+chr10	92632584	92632831	intron_(NM_004523,_intron_13_of_21)	1000	.	92632584	92632831	255,0,0
